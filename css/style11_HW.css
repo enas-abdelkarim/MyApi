@@ -1,0 +1,34 @@
+.bg-min 
+{
+     background-color:brown;
+    color: aliceblue;
+}
+.nav-link-min:hover
+{
+    color:darkgrey!important;
+  transition: color 0.7s ease 0.2s;
+    
+}
+
+.nav-item-margin
+{
+    margin-left :1.5rem !important;
+}
+.a-nav
+{
+   
+    color: wheat !important;
+}
+
+.a-decor
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.a-decor:hover
+{
+     color:darkgrey!important;
+  transition: color 0.7s ease 0.2s;
+}
+
